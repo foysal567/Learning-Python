@@ -1,6 +1,6 @@
 #FOR-LOOP FOR NUMBERS
 
-totalNumber = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "FOYSAL", "JACK", "TUSHAR", "LEEMON", "TUHIN", True, False]
+totalNumber = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 22, "FOYSAL", "JACK", "TUSHAR", "LEEMON", "TUHIN", True, False]
 
 for num in totalNumber:
       print(num)
